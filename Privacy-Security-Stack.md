@@ -18,7 +18,7 @@
 - **Tails OS:** An amnesic operating system designed to run from a USB drive. It leaves minimal traces on the computer after shutdown, provided it is used without persistent storage. While not particularly practical as a daily operating system, it is extremely useful when temporary, non-persistent sessions are needed. One example is securely transferring sensitive files (such as account recovery keys) from an online account to an encrypted USB drive.
 
 ## Laptops
-- Thinkpad t430s: The t430 was the last generation of Thinkpads to feature a physical Wifi toggle switch. 
+- **Thinkpad T430s**: The t430 was the last generation of Thinkpads to feature a physical Wifi toggle switch. 
 
 ## Office Suite (Email / Password Manager / File Sharing)
 
