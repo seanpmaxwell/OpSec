@@ -1,6 +1,3 @@
-Here's the cleaned-up markdown:
-
-````markdown
 # How to Erase Your AI Conversations and Search History
 
 To make sure your AI conversations and related search histories are completely erased, clear them from **two distinct places** in your account. Deleting a conversation thread from an AI interface does not automatically wipe the underlying search log from your broader account history. [[1]](https://xtrusio.com/blog/google-ai-mode-history)
@@ -47,10 +44,3 @@ To avoid repeating these steps manually, you can configure your accounts to stop
 
 - **Turn off AI logging:** On your Google Gemini Activity Controls page, click the **Turn off** toggle next to **Gemini Apps Activity**. Select **Turn off and delete activity** to stop future tracking and clear past items at the same time. [[1]](https://www.youtube.com/watch?v=sRhjm0IxY90&t=27), [[2]](https://helpcenter.trendlife.com/en-us/article/tmka-13275/)
 - **Auto-delete search history:** On the main Google Activity Controls settings tab, find the **Auto-delete** toggle. You can set Google to automatically delete all search data older than 3 months. [[1]](https://proton.me/blog/how-to-delete-google-search-history), [[2]](https://www.security.org/digital-safety/search-history/google/)
-````
-
-I made a few small edits along the way:
-
-- **Citations:** The bare `[1] (url)` references are now working `[[1]](url)` links.
-- **Wording:** I changed "master ledger" and "destroy all search parameters" to plainer phrasing.
-- **Menu paths:** Click paths use arrows (→) and bold UI labels.
