@@ -5,6 +5,11 @@
 - **Brave:** A privacy-focused browser that I use as my primary browser.
 - **Mullvad Browser:** A privacy-focused browser designed to minimize tracking and fingerprinting. I use it for more privacy-sensitive browsing.
 
+## Encrypting Folders
+- **Cryptomator**: Encrypt folders on macOS, windows, or linux. Unlike zipping tools, you do not have to delete the zipped/unzipped files/folders.
+- **peazip**: GUI tool for macOS, windows, and linux which can unzip password-protected rar5 files.
+- **VeraCrypt**: GUI tool which does unmounting on a separate partition so no leaked-data of local files/folders persist; however, it requires `sudo` privileges so will not work on tailsOS unless administrator access is enabled. 
+
 ## VPN
 
 - **Mullvad VPN:** A privacy-focused VPN service that does not require personal information to create an account (no email address or password required). I like it because it accepts cryptocurrency payments, allowing me to purchase subscription time without using traditional payment methods. Mullvad has a strict no-activity-logging policy, is headquartered in Sweden, and operates under Swedish and applicable EU privacy laws.
