@@ -5,4 +5,4 @@ Collection of tutorials for best operational security practices
 - [Terminology](./Terminology.md)
 - [Google Account OpSec](./Google-Account-OPSEC.md)
 - [Privacy and Security Stack](./Privacy-Security-Stack.md).
-  
+- [Windows 11 OpSec](./Win11-OpSec.md)
