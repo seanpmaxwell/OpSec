@@ -1,4 +1,4 @@
-# Privacy & Security Stack
+# Privacy & Security Tech Stack
 
 ## Browsers
 
